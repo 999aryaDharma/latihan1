@@ -1,0 +1,29 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    text-align: justify;
+}
+
+#header {
+    background-color: maroon;
+    padding: 16px;
+    color: white;
+}
+
+#menubar {
+    background-color: rgb(210, 206, 206);
+    padding: 8px;
+}
+
+#footer {
+    background-color: rgb(210, 206, 206);
+    padding: 12px;
+}
+
+#konten {
+    margin-left: 16px;
+}
